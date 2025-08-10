@@ -67,7 +67,7 @@ Navigate to [http://localhost:3000](http://localhost:3000)
 3. **AI Summarization**: Sends top articles to OpenAI for 60-word summaries
 4. **User Interface**: Displays articles in a clean, filterable dashboard
 
-## 🔧 Configuration
+## Configuration
 
 ### Adding New Topics
 
