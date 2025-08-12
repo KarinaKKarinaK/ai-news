@@ -1,6 +1,6 @@
 # AI News Dashboard
 
-> A full-stack productivity app that aggregates news and generates AI-powered summaries using OpenAI
+> An app that aggregates news and generates AI-powered summaries using OpenAI API
 
 ![AI News Dashboard](https://img.shields.io/badge/Next.js-15.4.6-black) ![OpenAI](https://img.shields.io/badge/OpenAI-API-green) ![TailwindCSS](https://img.shields.io/badge/Tailwind-CSS-blue)
 
